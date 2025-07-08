@@ -5,11 +5,11 @@ sidebar_position: 1
 import BrowserWindow from '@site/src/components/BrowserWindow';
 import IframeWindow from '@site/src/components/BrowserWindow/IframeWindow';
 
-About this Documentation
-========================
+Sobre esta Documentação
+=======================
 
-This [Joomla development manual](https://manual.joomla.org/docs/) is built using [Docusaurus](https://docusaurus.io/), 
-a modern static website generator. If you want to contribute to it then this page will help you get started.
+Este [manual de desenvolvimento do Joomla](https://manual.joomla.org/docs/) foi criado utilizando [Docusaurus](https://docusaurus.io/), 
+um gerador de ''site'' da Web estático e moderno. Se pretender contribuir para o mesmo, então esta página irá ajudá-lo a começar.
 
 Updates to the documentation is managed via the [Joomla manual GitHub repository](https://github.com/joomla/Manual), 
 so you should initially fork this repository into your own GitHub account. Then you can make changes to the documentation
